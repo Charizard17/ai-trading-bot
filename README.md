@@ -1,1 +1,1 @@
-# testing basic ai
+# ai-trading-bot
